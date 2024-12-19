@@ -4,25 +4,27 @@ Klasifikasi 3 Jenis Buah Lokal yaitu Pisang Kepok, Rambutan Lebak Bulus dan Mang
 # Hasil
 Berikut Hasil Klasifikasi Menggunakan K-Fold Cross Validation
 Diagram Hasil Train :
-![output](https://github.com/user-attachments/assets/4c06e943-c5f3-48fc-b6f9-e103121fe6ef)
+
+![image](https://github.com/user-attachments/assets/9b41e41d-0ed9-48ed-a3cf-bcc06f185c67)
 
 Tabel Hasil Testing :
 
-![output1](https://github.com/user-attachments/assets/af1448d4-ab76-4192-919b-e15ee3e6400d)
+![image](https://github.com/user-attachments/assets/3444ca9d-607b-449c-b80b-d0650484f050)
 
 Hasil Testing Buah :
 
 Manggis    : 
 
-![manggis output](https://github.com/user-attachments/assets/f3c2c4e2-26d8-4fe1-8c36-104ec41fa3a6)
+![image](https://github.com/user-attachments/assets/fecdec44-dce9-4b72-9471-2fc9fd7457aa)
 
 Pisang     : 
 
-![pisang output](https://github.com/user-attachments/assets/4d181af8-eb92-4383-baef-3ad3115f6529)
+![image](https://github.com/user-attachments/assets/0fb2870c-433b-4bef-84b5-692e687fdd47)
 
 Rambutan   : 
 
-![rambutan output](https://github.com/user-attachments/assets/8c4355b1-51be-4b5e-9e9e-93e394b167b4)
+![image](https://github.com/user-attachments/assets/700f0acf-4f3f-4c00-a315-8e33badfe72b)
+
 
 
 
