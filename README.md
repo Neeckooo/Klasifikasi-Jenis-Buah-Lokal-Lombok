@@ -7,7 +7,6 @@ Diagram Hasil Train :
 ![output](https://github.com/user-attachments/assets/4c06e943-c5f3-48fc-b6f9-e103121fe6ef)
 
 Tabel Hasil Testing :
-
 ![output1](https://github.com/user-attachments/assets/af1448d4-ab76-4192-919b-e15ee3e6400d)
 
 Hasil Testing Buah :
