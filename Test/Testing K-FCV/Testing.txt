@@ -1,0 +1,12 @@
+	  HSV
+======================
+CNN-HSV		= 0.97 = dataset/hsv_dataset/test
+MobileNetV2-HSV	= 0.96 = dataset/test3
+ResNet50-HSV	= 0.97 = dataset/test1
+
+
+	  RGB
+======================
+CNN-RGB		= 0.95 = dataset/test1
+MobileNetV2-RGB	= 0.94 = dataset/hsv_dataset/test
+ResNet50-RGB	= 0.87 = dataset/hsv_dataset/test
